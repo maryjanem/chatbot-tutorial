@@ -5,8 +5,9 @@
 *	JavaScript editor of choice
 
 ## Instructions ##
-* Run these commands:
+* Run these commands and follow `init` instructions:
 ```
+npm init
 npm install -g nodemon
 npm install --save botbuilder
 npm install --save restify
