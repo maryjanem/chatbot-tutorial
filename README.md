@@ -2,7 +2,7 @@
 ## Pre-Requisites ##
 * Node - https://nodejs.org/en/download/
 *	BotFramework Emulator - https://github.com/Microsoft/BotFramework-Emulator/releases
-*	JavaScript editor of choice
+*	JavaScript editor of choice (mines is Visual Studio Code)
 
 ## Instructions ##
 * Run these commands and follow `init` instructions:
