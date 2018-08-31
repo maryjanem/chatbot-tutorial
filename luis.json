@@ -1,0 +1,97 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "0.1",
+  "name": "ConverCon",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "About"
+    },
+    {
+      "name": "Greeting"
+    },
+    {
+      "name": "None"
+    },
+    {
+      "name": "Sponsors"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "can you tell me more about what this conference is about?",
+      "intent": "About",
+      "entities": []
+    },
+    {
+      "text": "greetings",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "sup",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "what companies are sponsoring convercon?",
+      "intent": "Sponsors",
+      "entities": []
+    },
+    {
+      "text": "what is convercon?",
+      "intent": "About",
+      "entities": []
+    },
+    {
+      "text": "what is this about?",
+      "intent": "About",
+      "entities": []
+    },
+    {
+      "text": "what is this conference about?",
+      "intent": "About",
+      "entities": []
+    },
+    {
+      "text": "whats up",
+      "intent": "Greeting",
+      "entities": []
+    },
+    {
+      "text": "who are your sponsors?",
+      "intent": "Sponsors",
+      "entities": []
+    },
+    {
+      "text": "who sponsors convercon?",
+      "intent": "Sponsors",
+      "entities": []
+    }
+  ]
+}
