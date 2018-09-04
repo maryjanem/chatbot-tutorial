@@ -1,7 +1,7 @@
 # ChatbotTutorial
 ## Pre-Requisites ##
 * Node - https://nodejs.org/en/download/
-*	BotFramework Emulator - https://github.com/Microsoft/BotFramework-Emulator/releases
+*	BotFramework Emulator - https://github.com/Microsoft/BotFramework-Emulator/releases/tag/v4.0.15-alpha
 *	JavaScript editor of choice (mines is Visual Studio Code)
 * Microsoft account not associated with school or work
 
